@@ -1,5 +1,6 @@
-# Antes-Que-Invadam-Por-que-sua-rede-precisa-ser-escaneada-como-se-o-inimigo-j-estivesse-dentro
+# Antes Que Invadam: Por que sua rede precisa ser escaneada como-se o inimigo já estivesse-dentro
 
+(./assets/CapaArtigo.jpg)
 Por Cauã Silva, Analista de Cibersegurança 
 
 “A maior ilusão da cibersegurança é acreditar que ainda não fomos invadidos.”
